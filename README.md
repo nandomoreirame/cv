@@ -41,8 +41,8 @@ Portfolio: [nandomoreira.me](http://nandomoreira.me/)
 ### Experiência
 
 * RCA Comunicação Visual - [site](http://www.cgdw.com.br/)
-**Cargo:** *Desenvolvedor Web.*
-**Atividades:** *Desenvolvimento de websites do zero a publicação. Front-end (HTML, CSS, jQuery) e Back-end (PHP e MySQL).*
+   * **Cargo:** *Desenvolvedor Web.*
+   * **Atividades:** *Desenvolvimento de websites do zero a publicação. Front-end (HTML, CSS, jQuery) e Back-end (PHP e MySQL).*
 
 * Totalize Internet Studio - [site](http://www.totalize.com.br/)
     * **Cargo:** *Programador Jr.*
