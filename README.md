@@ -1,12 +1,12 @@
 ## **Fernando Moreira Costa**
 
-Brasileiro, Casado, 25 anos
+Brasileiro, Casado, 26 anos
 
 Endereço: Pinheirinho, Curitiba/PR
 
 Telefones: [(41) 3151-3318](tel:4131513318) / [(41) 8440-1163](tel:4184401163)
 
-E-mail: [hi@nandomoreira.me](mailto:hi@nandomoreira.me)
+E-mail: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
 
 Portfolio: [nandomoreira.me](http://nandomoreira.me/)
 
@@ -76,13 +76,15 @@ Portfolio: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Projetos
 
-* [Nandomoreira.me](http://nandomoreira.me/)
-* [Gm3i/Projeto](http://gm3i.com.br/)
-* [Conexão Plastilit](http://www.conexaoplastilit.com.br/)
-* [Portal Macuxi](http://www.macuxi.com/)
-* [Chocolataria Gramado](http://www.chocolatariagramadoctba.com.br/)
 * [Desafio Abracce](http://desafio.abracce.org.br/)
 * [Abracce](http://www.abracce.org.br/)
+* [Nandomoreira.me](http://nandomoreira.me/)
+* [Remer terapias](http://remerterapias.com.br/)
+* [Gabriel Marinho](http://gabrielmdesign.com/)
+* [Gm3i/Projeto](http://gm3i.com.br/)
+* [Portal Macuxi](http://www.macuxi.com/)
+* [Chocolataria Gramado](http://www.chocolatariagramadoctba.com.br/)
+* [Conexão Plastilit](http://www.conexaoplastilit.com.br/)
 * [Divinu's Pães](http://www.divinuspaes.com.br/)
 * [Pizzaria Detroit](http://www.pizzariadetroit.com.br/)
 
