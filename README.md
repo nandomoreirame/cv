@@ -14,7 +14,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Formação
 
-* **2015/Cursando** - CT Positivo, Tecnologia em Sistemas para Internet.
+* **2015/Cursando** - CT Positivo, Tecnologia em Sistemas para Internet / Smartphones e Tablets.
 * **2010/2012** - Microcamp Curitiba, Web Design e Developer.
 * **2010/2011** - Colégio Estadual do Paraná, Técnico em Informática com ênfase em programação web e básico de programação java.
 
