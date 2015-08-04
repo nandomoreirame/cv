@@ -10,6 +10,8 @@ E-mail: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
 
 Blog: [nandomoreira.me](http://nandomoreira.me/)
 
+> Desenvolvedor front-end, entusiasta de performance e usabilidade, sempre em busca do melhor projeto e de um bom café. [Leia mais sobre mim..](http://nandomoreira.me/about/)
+
 ---
 
 ### Formação
@@ -92,3 +94,4 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ---
 
+> “Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso.” – Albert Einstein
