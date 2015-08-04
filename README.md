@@ -77,7 +77,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ---
 
-### Projetos
+### Outros Projetos
 
 * [Desafio Abracce](http://desafio.abracce.org.br/)
 * [Abracce](http://www.abracce.org.br/)
