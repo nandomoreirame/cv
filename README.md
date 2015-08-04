@@ -43,35 +43,35 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Experiência
 
-* MalaPronta.com - [site](http://malapronta.com.br/)
+* [MalaPronta.com](http://malapronta.com.br/)
     * **Cargo:** *Desenvolvedor Front-end*
     * **Atividades:** *Melhorias para o site de reservas de hotéis online da [MalaPronta.com](http://malapronta.com.br/), conversão do site com mais 5 anos e código antigo em um site _Responsivo_ em apenas 2 semanas, idealizador de novas metodologias para desenvolvimento front-end como SASS, Gulp, Bower e outras.*
 
-* Agência WX - [site](http://agenciawx.com.br/)
+* [Agência WX](http://agenciawx.com.br/)
     * **Cargo:** *Desenvolvedor WordPress/Front-end*
     * **Atividades:** *Front-end para o CMS próprio da WX utilziando tecnologia MVC e desenvolvimento de websites utilizando WordPress.*
 
-* IBPT - Instituto Brasileiro de Planejamento Tributário - [site](http://www.ibpt.org.br/)
+* [IBPT - Instituto Brasileiro de Planejamento Tributário](http://www.ibpt.org.br/)
     * **Cargo:** *Desenvolvedor WordPress*
     * **Atividades:** *Desenvolvimento de ferramentas próprias utilizando WordPress.*
 
-* Agência SALSA - [site](http://salsa.ag/)
+* [Agência SALSA](http://salsa.ag/)
     * **Cargo:** *Desenvolvedor Web*
     * **Atividades:** *Desenvolvimento e manutenção de Sites/Sistemas utilizando o PyroCMS, Lojas virtuais com Magento e sites com WordPress.*
 
-* Escola Microcamp Curitiba - [site](http://www.microcampcuritiba.com.br/)
+* [Escola Microcamp Curitiba](http://www.microcampcuritiba.com.br/)
     * **Cargo:** *Professor Webdesign VIP*
     * **Atividades:** *Aulas de Webdesign para turma VIP com 4 alunos. Foi ensinado como montar um website utilizando Tableless, HTML5, CSS3 e jQuery.*
 
-* Agência Rodz - [site](http://www.rodz.com.br/)
+* [Grupo Rodz](http://www.rodz.com.br/)
     * **Cargo:** *Programador Back-end*
     * **Atividades:** *Participação do desenvolvimento do sistema Training Bank utilizando Framework CodeIgniter.*
 
-* Totalize Internet Studio - [site](http://www.totalize.com.br/)
+* [Totalize Internet Studio](http://www.totalize.com.br/)
     * **Cargo:** *Programador Jr.*
     * **Atividades:** *Desenvolvimento de sistemas, sites e lojas virtuais, programação em PHPOO (Sistema/CMS próprio da empresa), bancos de dados MySQL e PostgreSQL.*
  
-* RCA Comunicação Visual - [site](http://www.cgdw.com.br/)
+* [RCA Comunicação Visual](http://www.cgdw.com.br/)
    * **Cargo:** *Desenvolvedor Web.*
    * **Atividades:** *Desenvolvimento de websites do zero a publicação. Front-end (HTML, CSS, jQuery) e Back-end (PHP e MySQL).*
 
