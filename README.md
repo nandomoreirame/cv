@@ -24,22 +24,23 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Qualificações
 
-* HTML (Jekyll/liquid, Jade, Haml e Erb)
-* CSS (SASS, Less e Stylus básico)
-* CSS Frameworks (Bootstrap, Foundation e outros)
-* Design Responsivo (Mobile First)
-* Javascript (jQuery e AngularJS básico)
-* Gulp e Grunt
-* Bower e Yeoman
-* npm e Ruby gems
-* Git (Github, Bitbucket, Gitlab)
-* PHP e Frameworks PHP (Codeigniter, laravel, symfony)
-* MySQL
-* Scrum (Kanban, Jira)
-* NodeJS básico
-* Ruby básico
-* TDD e BDD básico
-* Linux
+* HTML (Jekyll/liquid, Jade, Haml e Erb);
+* CSS (SASS, Less e Stylus básico);
+* CSS Frameworks (Bootstrap, Foundation e outros);
+* Design Responsivo (Mobile First);
+* Javascript (jQuery e AngularJS básico);
+* Gulp e Grunt;
+* Bower e Yeoman;
+* npm e Ruby gems;
+* Git (Github, Bitbucket, Gitlab);
+* PHP e Frameworks PHP (Codeigniter, laravel, symfony);
+* CMS PHP - Wordpress avançado, Joomla! e Drupal básico;
+* MySQL e PostgreSQL básico;
+* Scrum (Kanban, Jira);
+* NodeJS básico;
+* Ruby básico;
+* TDD e BDD básico;
+* Linux;
 
 ---
 
@@ -75,7 +76,9 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
  
 * [RCA Comunicação Visual](http://www.cgdw.com.br/)
    * **Cargo:** *Desenvolvedor Web.*
-   * **Atividades:** *Desenvolvimento de websites do zero a publicação. Front-end (HTML, CSS, jQuery) e Back-end (PHP e MySQL).*
+   * **Atividades:** *Desenvolvimento de sites com sistemas adimistrativos desde o PSD a publicação.
+      * Front-end (HTML, CSS, jQuery)
+      * Back-end (PHP e MySQL).*
 
 ---
 
