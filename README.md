@@ -32,6 +32,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 * Gulp e Grunt;
 * Bower e Yeoman;
 * npm e Ruby gems;
+* Cordova/Phonegap (ionic)
 * Git (Github, Bitbucket, Gitlab);
 * PHP e Frameworks PHP (Codeigniter, laravel, symfony);
 * CMS PHP - Wordpress avançado, Joomla! e Drupal básico;
@@ -76,9 +77,9 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
  
 * [RCA Comunicação Visual](http://www.cgdw.com.br/)
    * **Cargo:** *Desenvolvedor Web.*
-   * **Atividades:** *Desenvolvimento de sites com sistemas adimistrativos desde o PSD a publicação.
+   * **Atividades:** *Desenvolvimento de sites com sistemas adimistrativos desde o PSD a publicação.*
       * Front-end (HTML, CSS, jQuery)
-      * Back-end (PHP e MySQL).*
+      * Back-end (PHP e MySQL).
 
 ---
 
