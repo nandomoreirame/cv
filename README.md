@@ -53,7 +53,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 * [Agência WX](http://agenciawx.com.br/)
     * **Cargo:** *Desenvolvedor WordPress/Front-end*
-    * **Atividades:** *Front-end para o CMS próprio da WX utilziando tecnologia MVC e desenvolvimento de websites utilizando WordPress.*
+    * **Atividades:** *Front-end para o CMS próprio da WX utilizando tecnologia MVC e desenvolvimento de websites utilizando WordPress.*
 
 * [IBPT - Instituto Brasileiro de Planejamento Tributário](http://www.ibpt.org.br/)
     * **Cargo:** *Desenvolvedor WordPress*
