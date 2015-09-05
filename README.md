@@ -41,7 +41,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 * NodeJS básico;
 * Ruby básico;
 * TDD e BDD básico;
-* Linux;
+* Linux (Debian, Ubuntu, CentOS, ElementaryOS).
 
 ---
 
