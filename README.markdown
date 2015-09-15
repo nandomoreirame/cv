@@ -86,6 +86,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 ### Outros Projetos
 
 * [Nandomoreira.me](http://nandomoreira.me/)
+* [Wilson Luiz Prosdocimo](http://wprosdocimo.com.br/)
 * [Abracce](http://www.abracce.org.br/)
 * [Desafio Abracce](http://desafio.abracce.org.br/)
 * [Remer terapias](http://remerterapias.com.br/)
