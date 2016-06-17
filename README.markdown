@@ -23,11 +23,12 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Qualificações
 
-* HTML (Jekyll/liquid, Jade, Haml e Erb);
-* CSS (SASS, Less e Stylus básico);
+* HTML (liquid, Jade, Haml, Slim e Erb);
+* CSS (SASS, Less e Stylus);
 * CSS Frameworks (Bootstrap, Foundation e outros);
-* Design Responsivo (Mobile First);
-* Javascript (jQuery e AngularJS básico);
+* Design Responsivo (Mobile First, Progressive Enhancement e outros);
+* Geradores de sites estáticos (Jekyll, Middleman, hexo e outros);
+* Javascript (jQuery, React e Angular);
 * Gulp e Grunt;
 * Bower e Yeoman;
 * npm e Ruby gems;
@@ -45,6 +46,10 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 ---
 
 ### Experiência
+
+* [Pipefy.com](http://pipefy.com) (Atual)
+    * **Cargo:** *Desenvolvedor Front-end*
+    * **Atividades:** *Desenvolvimento front-end da nova interface do app [Pipefy](http://beta.pipefy.com), usando tecnologias atuais como SASS (Atomic design, OOCSS, BEM e outros), JavaScript (jQuery e React), NodeJS (NPM, Gulp, browsersync) e outros. Desenvolvimento front-end dentro da plataforma Ruby on Rails usando template engine ERB e Slim.*
 
 * [MalaPronta.com](http://malapronta.com.br/)
     * **Cargo:** *Desenvolvedor Front-end*
@@ -89,8 +94,6 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 * [Abracce](http://www.abracce.org.br/)
 * [Desafio Abracce](http://desafio.abracce.org.br/)
 * [Remer terapias](http://remerterapias.com.br/)
-* [Gabriel Marinho](http://gabrielmdesign.com/)
-* [Gm3i/Projeto](http://gm3i.com.br/)
 * [Tomasoni](http://tomasoni.ind.br/)
 * [Portal Macuxi](http://www.macuxi.com/)
 * [Chocolataria Gramado](http://www.chocolatariagramadoctba.com.br/)
