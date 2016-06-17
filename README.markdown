@@ -1,6 +1,6 @@
 ## **Fernando Moreira Costa**
 
-Brasileiro, Casado, 26 anos
+Brasileiro, Casado, 27 anos
 
 Endereço: Pinheirinho, Curitiba/PR
 
@@ -16,7 +16,6 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Formação
 
-* **2015/Cursando** - CT Positivo, Tecnologia em Sistemas para Internet / Smartphones e Tablets.
 * **2010/2012** - Microcamp Curitiba, Web Design e Developer.
 * **2010/2011** - Colégio Estadual do Paraná, Técnico em Informática com ênfase em programação web e básico de programação java.
 
