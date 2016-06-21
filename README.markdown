@@ -8,9 +8,9 @@ Telefones: [(41) 3151-3318](tel:4131513318) / [(41) 8440-1163](tel:4184401163)
 
 E-mail: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
 
-Blog: [nandomoreira.me](http://nandomoreira.me/)
+Blog: [nandomoreira.me](https://nandomoreira.me/)
 
-> Desenvolvedor front-end, entusiasta de performance e usabilidade, sempre em busca do melhor projeto e de um bom café. [Leia mais sobre mim..](http://nandomoreira.me/about/)
+> Desenvolvedor front-end, entusiasta de performance e usabilidade, sempre em busca do melhor projeto e de um bom café. [Leia mais sobre mim..](https://nandomoreira.me/about/)
 
 ---
 
@@ -89,7 +89,7 @@ Blog: [nandomoreira.me](http://nandomoreira.me/)
 
 ### Outros Projetos
 
-* [Nandomoreira.me](http://nandomoreira.me/)
+* [Nandomoreira.me](https://nandomoreira.me/)
 * [Wilson Luiz Prosdocimo](http://wprosdocimo.com.br/)
 * [Abracce](http://www.abracce.org.br/)
 * [Desafio Abracce](http://desafio.abracce.org.br/)
