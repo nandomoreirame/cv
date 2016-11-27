@@ -95,8 +95,6 @@ Blog: [nandomoreira.me](https://nandomoreira.me/)
 * [Desafio Abracce](http://desafio.abracce.org.br/)
 * [Remer terapias](http://remerterapias.com.br/)
 * [Tomasoni](http://tomasoni.ind.br/)
-* [Portal Macuxi](http://www.macuxi.com/)
-* [Chocolataria Gramado](http://www.chocolatariagramadoctba.com.br/)
 * [Pizzaria Detroit](http://www.pizzariadetroit.com.br/)
 * [Conexão Plastilit](http://www.conexaoplastilit.com.br/)
 
