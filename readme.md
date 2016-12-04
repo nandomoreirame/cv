@@ -48,36 +48,36 @@ Blog: [nandomoreira.me/blog](https://nandomoreira.me/blog)
 ### Experience
 
 * [LojasKD.com.br](https://www.lojaskd.com.br/) (Current)
-    * **Cargo:** *Front-end Developer*
-    * **Atividades:** *Maintenance and development of new interfaces for [LojasKD's](https://www.lojaskd.com.br/) e-commerce.*
+    * **Position:** *Front-end Developer*
+    * **Activities:** *Maintenance and development of new interfaces for [LojasKD's](https://www.lojaskd.com.br/) e-commerce.*
 
 * [Pipefy.com](http://pipefy.com)
-    * **Cargo:** *Front-end Developer*
-    * **Atividades:** *Front-end development of the [Pipefy's](http://app.pipefy.com) new app interface*
+    * **Position:** *Front-end Developer*
+    * **Activities:** *Front-end development of the [Pipefy's](http://app.pipefy.com) new app interface*
 
 * [MalaPronta.com](http://malapronta.com.br/)
-    * **Cargo:** *Front-end Developer*
-    * **Atividades:** *Melhorias para o site de reservas de hotéis online da [MalaPronta.com](http://malapronta.com.br/), I converted a 5 year old site with old code and plenty of legacy CSS and HTML into a 100% responsive site, I was idealizing new methodologies for front-end development like SASS, Gulp, Bower and others.*
+    * **Position:** *Front-end Developer*
+    * **Activities:** *Melhorias para o site de reservas de hotéis online da [MalaPronta.com](http://malapronta.com.br/), I converted a 5 year old site with old code and plenty of legacy CSS and HTML into a 100% responsive site, I was idealizing new methodologies for front-end development like SASS, Gulp, Bower and others.*
 
 * [Agência WX](http://agenciawx.com.br/)
-    * **Cargo:** *WordPress/Front-end Developer*
-    * **Atividades:** *Front end for WX 's own CMS using MVC technology and website development using WordPress.*
+    * **Position:** *WordPress/Front-end Developer*
+    * **Activities:** *Front end for WX 's own CMS using MVC technology and website development using WordPress.*
 
 * [IBPT - Instituto Brasileiro de Planejamento Tributário](http://www.ibpt.org.br/)
-    * **Cargo:** *WordPress Developer*
-    * **Atividades:** *Developing proprietary tools using WordPress.*
+    * **Position:** *WordPress Developer*
+    * **Activities:** *Developing proprietary tools using WordPress.*
 
 * [Agência SALSA](http://salsa.ag/)
-    * **Cargo:** *Web Developer*
-    * **Atividades:** *Development and maintenance of Sites / Systems using PyroCMS, E-commerce with Magento and websites with WordPress.*
+    * **Position:** *Web Developer*
+    * **Activities:** *Development and maintenance of Sites / Systems using PyroCMS, E-commerce with Magento and websites with WordPress.*
     
 * [Totalize Internet Studio](http://www.totalize.com.br/)
-    * **Cargo:** *Beginner Programmer*
-    * **Atividades:** *Development of systems, websites and ecommerce, PHP Programing (company's own CMS), Data base MySQL and PostgreSQL.*
+    * **Position:** *Beginner Programmer*
+    * **Activities:** *Development of systems, websites and ecommerce, PHP Programing (company's own CMS), Data base MySQL and PostgreSQL.*
  
 * [CGDW / RCA Comunicação Visual](http://www.cgdw.com.br/)
-   * **Cargo:** *Desenvolvedor Web.*
-   * **Atividades:** *Development of sites with administrative systems since the PSD (Photoshop) the publication.*
+   * **Position:** *Desenvolvedor Web.*
+   * **Activities:** *Development of sites with administrative systems since the PSD (Photoshop) the publication.*
       * Front-end (HTML, CSS, jQuery)
       * Back-end (PHP e MySQL).
 
