@@ -48,42 +48,42 @@ Blog: [nandomoreira.me/blog](https://nandomoreira.me/blog)
 ### Experience
 
 * [LojasKD.com.br](https://www.lojaskd.com.br/) (Atual)
-    * **Cargo:** *Desenvolvedor Front-end*
-    * **Atividades:** *Manutenção e desenvolvimento de novas interfaces para o ecommerce de móveis da LojasKD*
+    * **Cargo:** *Front-end Developer*
+    * **Atividades:** *Maintenance and development of new interfaces for [LojasKD's](https://www.lojaskd.com.br/) e-commerce.*
 
 * [Pipefy.com](http://pipefy.com)
-    * **Cargo:** *Desenvolvedor Front-end*
-    * **Atividades:** *Desenvolvimento front-end da nova interface do app [Pipefy](http://app.pipefy.com), usando tecnologias atuais como SASS (Atomic design, OOCSS, BEM e outros), JavaScript, NodeJS (NPM, Gulp, BrowserSync) e outros. Desenvolvimento front-end dentro da plataforma Ruby on Rails usando template engine ERB e Slim.*
+    * **Cargo:** *Front-end Developer*
+    * **Atividades:** *Front-end development of the [Pipefy's](http://app.pipefy.com) new app interface*
 
 * [MalaPronta.com](http://malapronta.com.br/)
-    * **Cargo:** *Desenvolvedor Front-end*
-    * **Atividades:** *Melhorias para o site de reservas de hotéis online da [MalaPronta.com](http://malapronta.com.br/), conversão do site com mais 5 anos e código antigo em um site _Responsivo_ em apenas 2 semanas, idealizador de novas metodologias para desenvolvimento front-end como SASS, Gulp, Bower e outras.*
+    * **Cargo:** *Front-end Developer*
+    * **Atividades:** *Melhorias para o site de reservas de hotéis online da [MalaPronta.com](http://malapronta.com.br/), I converted a 5 year old site with old code and plenty of legacy CSS and HTML into a 100% responsive site, I was idealizing new methodologies for front-end development like SASS, Gulp, Bower and others.*
 
 * [Agência WX](http://agenciawx.com.br/)
-    * **Cargo:** *Desenvolvedor WordPress/Front-end*
-    * **Atividades:** *Front-end para o CMS próprio da WX utilizando tecnologia MVC e desenvolvimento de websites utilizando WordPress.*
+    * **Cargo:** *WordPress/Front-end Developer*
+    * **Atividades:** *Front end for WX 's own CMS using MVC technology and website development using WordPress.*
 
 * [IBPT - Instituto Brasileiro de Planejamento Tributário](http://www.ibpt.org.br/)
-    * **Cargo:** *Desenvolvedor WordPress*
-    * **Atividades:** *Desenvolvimento de ferramentas próprias utilizando WordPress.*
+    * **Cargo:** *WordPress Developer*
+    * **Atividades:** *Developing proprietary tools using WordPress.*
 
 * [Agência SALSA](http://salsa.ag/)
-    * **Cargo:** *Desenvolvedor Web*
-    * **Atividades:** *Desenvolvimento e manutenção de Sites/Sistemas utilizando o PyroCMS, Lojas virtuais com Magento e sites com WordPress.*
+    * **Cargo:** *Web Developer*
+    * **Atividades:** *Development and maintenance of Sites / Systems using PyroCMS, E-commerce with Magento and websites with WordPress.*
     
 * [Totalize Internet Studio](http://www.totalize.com.br/)
-    * **Cargo:** *Programador Jr.*
-    * **Atividades:** *Desenvolvimento de sistemas, sites e lojas virtuais, programação em PHPOO (Sistema/CMS próprio da empresa), bancos de dados MySQL e PostgreSQL.*
+    * **Cargo:** *Beginner Programmer*
+    * **Atividades:** *Development of systems, websites and ecommerce, PHP Programing (company's own CMS), Data base MySQL and PostgreSQL.*
  
 * [CGDW / RCA Comunicação Visual](http://www.cgdw.com.br/)
    * **Cargo:** *Desenvolvedor Web.*
-   * **Atividades:** *Desenvolvimento de sites com sistemas adimistrativos desde o PSD a publicação.*
+   * **Atividades:** *Development of sites with administrative systems since the PSD (Photoshop) the publication.*
       * Front-end (HTML, CSS, jQuery)
       * Back-end (PHP e MySQL).
 
 ---
 
-### Outros Projetos
+### Others projects
 
 * [Nandomoreira.me](https://nandomoreira.me/)
 * [Wilson Luiz Prosdocimo](http://wprosdocimo.com.br/)
@@ -96,4 +96,4 @@ Blog: [nandomoreira.me/blog](https://nandomoreira.me/blog)
 
 ---
 
-> “Eu não tenho nenhum talento especial. Sou apenas apaixonadamente curioso.” – Albert Einstein
+> “I have no special talent. I am only passionately curious.” – Albert Einstein
