@@ -47,7 +47,7 @@ Blog: [nandomoreira.me/blog](https://nandomoreira.me/blog)
 
 ### Experience
 
-* [LojasKD.com.br](https://www.lojaskd.com.br/) (Atual)
+* [LojasKD.com.br](https://www.lojaskd.com.br/) (Current)
     * **Cargo:** *Front-end Developer*
     * **Atividades:** *Maintenance and development of new interfaces for [LojasKD's](https://www.lojaskd.com.br/) e-commerce.*
 
