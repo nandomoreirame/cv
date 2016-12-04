@@ -47,9 +47,13 @@ Blog: [nandomoreira.me](https://nandomoreira.me/)
 
 ### Experiência
 
-* [Pipefy.com](http://pipefy.com) (Atual)
+* [LojasKD.com.br](https://www.lojaskd.com.br/) (Atual)
     * **Cargo:** *Desenvolvedor Front-end*
-    * **Atividades:** *Desenvolvimento front-end da nova interface do app [Pipefy](http://beta.pipefy.com), usando tecnologias atuais como SASS (Atomic design, OOCSS, BEM e outros), JavaScript (jQuery e React), NodeJS (NPM, Gulp, browsersync) e outros. Desenvolvimento front-end dentro da plataforma Ruby on Rails usando template engine ERB e Slim.*
+    * **Atividades:** *Manutenção e desenvolvimento de novas interfaces no ecommerce de móveis da LojasKD*
+
+* [Pipefy.com](http://pipefy.com)
+    * **Cargo:** *Desenvolvedor Front-end*
+    * **Atividades:** *Desenvolvimento front-end da nova interface do app [Pipefy](http://app.pipefy.com), usando tecnologias atuais como SASS (Atomic design, OOCSS, BEM e outros), JavaScript, NodeJS (NPM, Gulp, BrowserSync) e outros. Desenvolvimento front-end dentro da plataforma Ruby on Rails usando template engine ERB e Slim.*
 
 * [MalaPronta.com](http://malapronta.com.br/)
     * **Cargo:** *Desenvolvedor Front-end*
@@ -66,20 +70,12 @@ Blog: [nandomoreira.me](https://nandomoreira.me/)
 * [Agência SALSA](http://salsa.ag/)
     * **Cargo:** *Desenvolvedor Web*
     * **Atividades:** *Desenvolvimento e manutenção de Sites/Sistemas utilizando o PyroCMS, Lojas virtuais com Magento e sites com WordPress.*
-
-* [Escola Microcamp Curitiba](http://www.microcampcuritiba.com.br/)
-    * **Cargo:** *Professor Webdesign VIP*
-    * **Atividades:** *Aulas de Webdesign para turma VIP com 4 alunos. Foi ensinado como montar um website utilizando Tableless, HTML5, CSS3 e jQuery.*
-
-* [Grupo Rodz](http://www.rodz.com.br/)
-    * **Cargo:** *Programador Back-end*
-    * **Atividades:** *Participação do desenvolvimento do sistema Training Bank utilizando Framework CodeIgniter.*
-
+    
 * [Totalize Internet Studio](http://www.totalize.com.br/)
     * **Cargo:** *Programador Jr.*
     * **Atividades:** *Desenvolvimento de sistemas, sites e lojas virtuais, programação em PHPOO (Sistema/CMS próprio da empresa), bancos de dados MySQL e PostgreSQL.*
  
-* [RCA Comunicação Visual](http://www.cgdw.com.br/)
+* [CGDW / RCA Comunicação Visual](http://www.cgdw.com.br/)
    * **Cargo:** *Desenvolvedor Web.*
    * **Atividades:** *Desenvolvimento de sites com sistemas adimistrativos desde o PSD a publicação.*
       * Front-end (HTML, CSS, jQuery)
