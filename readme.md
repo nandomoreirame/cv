@@ -39,7 +39,7 @@ Blog: [nandomoreira.me/blog](https://nandomoreira.me/blog)
 * MySQL and PostgreSQL básico;
 * Scrum and Kanban;
 * NodeJS básico;
-* Ruby básico (Ruby on Rails, Sinatra);
+* Ruby (Ruby on Rails, Sinatra basic);
 * Testes (TDD and BDD basic);
 * Sistemas Operacionais base Unix (Linux and MacOS).
 
