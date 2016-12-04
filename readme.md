@@ -23,25 +23,27 @@ Blog: [nandomoreira.me](https://nandomoreira.me/)
 
 ### Qualificações
 
-* HTML (liquid, Jade, Haml, Slim e Erb);
-* CSS (SASS, Less e Stylus);
-* CSS Frameworks (Bootstrap, Foundation e outros);
+* HTML/HTML5;
+* Template Engines (liquid, Jade, Haml, Slim e Erb);
+* CSS/CSS3;
+* Pré-processadores de CSS (SASS, Less e Stylus);
+* Frameworks de CSS (Bootstrap, Foundation e outros);
 * Design Responsivo (Mobile First, Progressive Enhancement e outros);
 * Geradores de sites estáticos (Jekyll, Middleman, hexo e outros);
 * Javascript (jQuery, React e Angular);
-* Gulp e Grunt;
+* Task runners (Gulp, Grunt, Rake);
 * Bower e Yeoman;
 * npm e Ruby gems;
 * Cordova/Phonegap (ionic)
 * Git (Github, Bitbucket, Gitlab);
 * PHP e Frameworks PHP (Codeigniter, laravel, symfony);
-* CMS PHP - Wordpress avançado, Joomla! e Drupal básico;
+* CMS PHP (Wordpress avançado, Joomla! e Drupal básico);
 * MySQL e PostgreSQL básico;
-* Scrum (Kanban, Jira);
+* Scrum e Kanban;
 * NodeJS básico;
-* Ruby básico;
-* TDD e BDD básico;
-* Linux (Debian, Ubuntu, CentOS, ElementaryOS).
+* Ruby básico (Ruby on Rails, Sinatra);
+* Testes (TDD e BDD básico);
+* Sistemas Operacionais base Unix (Linux e MacOS).
 
 ---
 
@@ -49,7 +51,7 @@ Blog: [nandomoreira.me](https://nandomoreira.me/)
 
 * [LojasKD.com.br](https://www.lojaskd.com.br/) (Atual)
     * **Cargo:** *Desenvolvedor Front-end*
-    * **Atividades:** *Manutenção e desenvolvimento de novas interfaces no ecommerce de móveis da LojasKD*
+    * **Atividades:** *Manutenção e desenvolvimento de novas interfaces para o ecommerce de móveis da LojasKD*
 
 * [Pipefy.com](http://pipefy.com)
     * **Cargo:** *Desenvolvedor Front-end*
