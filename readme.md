@@ -4,8 +4,6 @@ Brasileiro, Casado, 27 anos
 
 Endereço: Pinheirinho, Curitiba/PR
 
-Telefones: [(41) 3151-3318](tel:4131513318) / [(41) 8440-1163](tel:4184401163)
-
 E-mail: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
 
 Blog: [nandomoreira.me](https://nandomoreira.me/)
