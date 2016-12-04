@@ -4,7 +4,7 @@ Brasileiro, Casado, 27 anos
 
 Endereço: Pinheirinho, Curitiba/PR
 
-E-mail: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
+Email: [nandomoreira.me@gmail.com](mailto:nandomoreira.me@gmail.com)
 
 Blog: [nandomoreira.me](https://nandomoreira.me/)
 
