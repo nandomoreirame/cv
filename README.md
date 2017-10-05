@@ -1,7 +1,3 @@
-<p align="right">
-   <a href="/README-pt-br.md">Versão em pt-br</a>
-</p>
-
 ## **Fernando Moreira Costa**
 
 Brazilian, Married, 27 years old.
