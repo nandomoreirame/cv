@@ -1,7 +1,3 @@
-<p align="right">
-   <a href="/README.md">English please</a>
-</p>
-
 ## **Fernando Moreira Costa**
 
 Brasileiro, Casado, 27 anos
